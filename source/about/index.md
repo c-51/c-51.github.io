@@ -1,5 +1,6 @@
 ---
 title: 关于
+hidedate: true
 comments: false
 ---
 
